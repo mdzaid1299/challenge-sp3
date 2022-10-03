@@ -1,119 +1,112 @@
 /* Write CSS code here */
 
-.tacos{
-    float: left;
-    border: 2px solid maroon;
-    padding: 5px;
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-    background-color: maroon;
-    margin-left: 100px;
-
+.tacos {
+  float: left;
+  border: 2px solid maroon;
+  padding: 5px;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  background-color: maroon;
+  margin-left: 100px;
 }
-.wines{
-    float: left;
-    border: 2px solid maroon;
-    text-align: center;
-    width: 100px;
-    padding: 5px;
-    margin: 10px;
-    background-color: maroon;
-    margin-left: 100px;
+.wines {
+  float: left;
+  border: 2px solid maroon;
+  text-align: center;
+  width: 100px;
+  padding: 5px;
+  margin: 10px;
+  background-color: maroon;
+  margin-left: 100px;
 }
-.deserts{
-    float: left;
-    border: 2px solid maroon;
-    padding: 5px;
-    text-align: center;
-    width: 100px;
-    margin: 10px;
-    background-color: maroon;
-    margin-left: 100px;
+.deserts {
+  float: left;
+  border: 2px solid maroon;
+  padding: 5px;
+  text-align: center;
+  width: 100px;
+  margin: 10px;
+  background-color: maroon;
+  margin-left: 100px;
 }
-.beers{
-    float: left;
-    border: 2px solid maroon;
-    padding: 5px;
-    text-align: center;
-    width: 100px;
-    margin: 10px;
-    background-color: maroon;
-    margin-left: 100px;
+.beers {
+  float: left;
+  border: 2px solid maroon;
+  padding: 5px;
+  text-align: center;
+  width: 100px;
+  margin: 10px;
+  background-color: maroon;
+  margin-left: 100px;
 }
-.reservation{
-    float: left;
-    border: 2px solid maroon;
-    padding: 5px;
-    text-align: center;
-    width: 100px;
-    margin: 10px;
-    background-color: maroon;
-    margin-left: 100px;
+.reservation {
+  float: left;
+  border: 2px solid maroon;
+  padding: 5px;
+  text-align: center;
+  width: 100px;
+  margin: 10px;
+  background-color: maroon;
+  margin-left: 100px;
 }
-.container{
-   float: left;
-   position: relative;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-
-  }
-  .image{
-    
-    margin-top: 50px;
-    margin-left: 100px;
-  }
-  .text1{
-    font-size: 15px;
-    padding-left: 20px;
-    margin-bottom: 190px;
-    color: maroon;
-    font-size: medium;
+.container {
+  float: left;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.text1 {
+  font-size: 15px;
+  padding-left: 20px;
+  margin-bottom: 190px;
+  color: maroon;
+  font-size: medium;
 }
 
-.topleft{
-    position:absolute;
-    margin-top: 60px;
-    top: 10px;
-    left: 135px;
-    color: rgb(255, 255, 7);
-    font-size: large;
-  }
-  section{
-    float: left;
-    display: flex;
-    position:absolute;
-    top: 290px;
-    left: 550px;
-    
+.topleft {
+  position: absolute;
+  margin-top: 60px;
+  top: 10px;
+  left: 135px;
+  color: rgb(255, 255, 7);
+  font-size: large;
 }
-#taco1{
-    margin-left: 20px;
-    background-color: #451207;
-    
+section {
+  float: left;
+  display: flex;
+  position: absolute;
+  top: 290px;
+  left: 550px;
+}
+#taco1 {
+  margin-left: 20px;
+  background-color: #451207;
+}
+.para {
+  color: yellow;
+  text-align: center;
+}
+.img1 {
+  border-radius: 50%;
+  padding: 30px;
+}
+footer {
+  float: left;
+  display: flex;
+  margin-top: 43px;
+}
+#bottom {
+  margin-left: 70px;
+}
 
-}
-.para{
-    color: yellow;
-    text-align: center;
-}
-.img1{
-    border-radius: 50%;
-    padding: 30px;
-}
-  footer{
-   float: left;
-    display: flex;
-    margin-top: 43px;
-    
-  }
-  #bottom{
-    margin-left: 70px;
-  }
-
-a{
-    text-decoration: none;
-    color: rgb(254, 254, 0);
-    font-size: large;
+a {
+  text-decoration: none;
+  color: rgb(254, 254, 0);
+  font-size: large;
 }
